@@ -4,13 +4,14 @@ This is a sample portfolio I created during a web development workshop hosted by
 
 ## Project Overview
 The website includes the following:
-- **Landing Section:** A placeholder for a profile description, with a sample call-to-action button.
-- **Social Media Links:** Icons linking to example social media profiles (these are placeholders for now).
+- **Landing Section:** A placeholder for a profile description, with a sample button.
+- **Social Media Links:** Icons linking to my social media profiles.
 - **Responsive Design:** Using Bootstrap, the website is designed to be mobile-friendly and adapt to various screen sizes.
 
 ## Technologies Used
 - HTML5
 - CSS3
 - Bootstrap
+- SVG Background
 - FontAwesome (for social media icons)
 - Google Fonts (Roboto and Montserrat)
